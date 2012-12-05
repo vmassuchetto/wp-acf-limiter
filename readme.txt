@@ -9,11 +9,16 @@ Stable tag: 0.01
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Insert JavaScript character limiters in Advanced Custom Fields. You set a limit for each field, and a character counter will appear next to them in the admin interface.
+Insert JavaScript character limiters in Advanced Custom Fields. You set the field limits and a character counter will appear next to them.
 
 == Description ==
 
 Insert JavaScript character limiters in Advanced Custom Fields. You set a limit for each field, and a character counter will appear next to them in the admin interface.
+
+__Links__
+
+* [Plugin Page](http://vinicius.soylocoporti.org.br/advanced-custom-fields-limiter-wordpress-plugin)
+* [GitHub Repository](https://github.com/vmassuchetto/wordpress-advanced-custom-fields-limiter)
 
 == Installation ==
 
@@ -22,7 +27,7 @@ Insert JavaScript character limiters in Advanced Custom Fields. You set a limit 
 3. Create some fields and apply them to a editing area.
 4. Go to the 'Custom Fields > Limiters' menu and set a limit for each field.
 
-== Usage ==
+__Usage__
 
 This plugin won't do anything if 'Advanced Custom Fields' is not activated.
 
@@ -34,7 +39,7 @@ By now, the plugin performs only a JavaScript check, and won't run any PHP to li
 
 1. Menu entry.
 2. Options screen.
-2. Input text counter.
+3. Input text counter.
 
 == Changelog ==
 
