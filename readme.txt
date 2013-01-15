@@ -5,7 +5,7 @@ Donate link: http://vinicius.soylocoporti.org.br
 Tags: custom, field, custom field, advanced, simple fields, magic fields, more fields, repeater, matrix, post, type, text, textarea, file, image, edit, admin, limiter
 Requires at least: 2.9.2
 Tested up to: 3.4.2
-Stable tag: 0.01
+Stable tag: 0.02
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,6 +42,11 @@ By now, the plugin performs only a JavaScript check, and won't run any PHP to li
 3. Input text counter.
 
 == Changelog ==
+
+= 0.02 =
+
+* Don't render a count box with fields with no limit
+* CSS fixes for the counter box position
 
 = 0.01 =
 

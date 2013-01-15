@@ -1,6 +1,6 @@
-.count-box { position:absolute; right:0; bottom:0; font-size:12px; font-weight:bold; color:#CCC; background:#EAEAEA; padding:0 5px; }
+.count-box { position:absolute; right:10px; bottom:17px; height:25px; line-height:25px; font-size:12px; font-weight:bold; color:#CCC; background:#EAEAEA; padding:0 5px; }
+.no_box .count-box { right:0; }
 .count-box-threshold1 { color:#FF8A30; }
 .count-box-threshold2 { color:#C30400; }
 .field-textarea .count-box { border-radius:3px 0 0 0; }
 .title-count { bottom:22px; height:30px; line-height:30px; }
-.acf_postbox .count-box { bottom:17px; height:25px; line-height:25px; right:0; }
